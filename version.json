@@ -1,0 +1,20 @@
+{
+  "bin": {
+    "name": "abckey-firmware-1.0.0.bin",
+    "ver": "1.0.0",
+    "url": "https://abckey.com/download/abckey-firmware-1.0.0.bin",
+    "sha512": "7bfa95a688924c47c7d22381f20cc926f524beacb13f84e203d4bd8cb6ba2fce81c57a5f059bf3d509926487bde925b3bcee0635e4f7baeba054e5dba696b2bf"
+  },
+  "exe": {
+    "name": "abckey-desktop-1.0.0.exe",
+    "ver": "1.0.0",
+    "url": "https://abckey.com/download/abckey-desktop-1.0.0.exe",
+    "sha512": "7bfa95a688924c47c7d22381f20cc926f524beacb13f84e203d4bd8cb6ba2fce81c57a5f059bf3d509926487bde925b3bcee0635e4f7baeba054e5dba696b2bf"
+  },
+  "zip": {
+    "name": "abckey-desktop-1.1.0.zip",
+    "ver": "1.1.0",
+    "url": "https://abckey.com/download/abckey-desktop-1.1.0.zip",
+    "sha512": "7bfa95a688924c47c7d22381f20cc926f524beacb13f84e203d4bd8cb6ba2fce81c57a5f059bf3d509926487bde925b3bcee0635e4f7baeba054e5dba696b2bf"
+  }
+}
